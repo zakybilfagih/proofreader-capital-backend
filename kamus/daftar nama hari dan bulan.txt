@@ -1,0 +1,53 @@
+senin
+selasa
+rabu
+kamis
+jumat
+sabtu
+januari
+februari
+maret
+april
+mei
+juni
+juli
+agustus
+september
+oktober
+november
+desember
+
+muharram
+safar
+rabiul awal
+rabiul akhir
+jumadil awal
+jumadil akhir
+rajab
+sya'ban
+ramadhan
+ramadan
+syawal
+dzulkaidah
+dzulhijjah
+
+masehi
+maulid
+maulid nabi muhammad saw
+imlek
+nyepi
+galungan
+kuningan 
+jumat agung
+paskah
+waisak
+isra 
+miraj
+idul 
+fitri
+adha
+hijriyah
+natal
+trisuci 
+waisak
+natal
