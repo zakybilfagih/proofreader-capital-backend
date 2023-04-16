@@ -1,6 +1,5 @@
 # Importing libraries
 from nltk.tokenize import word_tokenize
-from detokenize import detokenize_sentence
 from kamus import *
 import torch
 from ner import *
