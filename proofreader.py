@@ -85,7 +85,6 @@ def proofreader_v3(input):
                         replacement = kalimat[i].title()
 
                         if 'EVT' in nerp[i-1] and len(lst_correction) > 0 and offset - (lst_correction[-1]['offset'] + lst_correction[-1]['deleteCount'] - 1) == 2:
-                            print(replacement)
                             offset = lst_correction[-1]['offset']
                             deleteCount = deleteCount + lst_correction[-1]['deleteCount'] + 1
                             replacement = lst_correction[-1]['replacement'] + ' ' + replacement
