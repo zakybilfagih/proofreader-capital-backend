@@ -16,3 +16,15 @@ Gurun
 Benua
 Pantai
 Hayati
+Lembah
+Jazirah
+Dataran
+Selat
+Kabupaten
+Kota
+Kecamatan
+Distrik
+Desa
+Kelurahan
+Jalan
+Gang
