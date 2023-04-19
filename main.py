@@ -12,7 +12,7 @@ app = FastAPI()
 async def root():
     return {"message": "Hello Capital Letter"}
 
-@app.post("/proofreader/")
+@app.post("/capitalization_error_correction/")
 async def proofreader_capital(req: MessagesReq):
     result = proofreader_v3(req.messages)
 

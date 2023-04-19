@@ -419,3 +419,13 @@ B.Sc
 oec
 M.Si
 D.Th
+Dg
+Dt 
+R.A 
+St 
+Tb 
+Dr
+Prof 
+Tn 
+Ny 
+Sdr

@@ -47,7 +47,8 @@ def proofreader_v3(input):
 
         else:  
             # Capitalize awal kalimat pada petikan langsung
-            if kalimat[i-1] in ['"', '``', '\'\'', '.']:
+            symbols = ['"', '``', '\'\'', '.']
+            if any(symbol in kalimat[i-1] for symbol in symbols):
                 #   kalimat[i] = kalimat[i].title()
                 if not kalimat[i].istitle():
                     replacement = kalimat[i].title()
