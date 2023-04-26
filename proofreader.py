@@ -37,7 +37,7 @@ def proofreader_v3(input):
         offset = input.find(kalimat[i], start_idx)
 
         # Capitalize awal kalimat          
-        if i == 0:
+        if i == 0 or kalimat[i-1] == '.':
             #    kalimat[i] = kalimat[i].title()
             if not kalimat[i].istitle():
                 replacement = kalimat[i].title()
@@ -47,7 +47,7 @@ def proofreader_v3(input):
 
         else:  
             # Capitalize awal kalimat pada petikan langsung
-            symbols = ['"', '``', '\'\'', '.']
+            symbols = ['"', '``', '\'\'']
             if any(symbol in kalimat[i-1] for symbol in symbols):
                 #   kalimat[i] = kalimat[i].title()
                 if not kalimat[i].istitle():
