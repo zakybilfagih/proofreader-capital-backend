@@ -1,5 +1,4 @@
 mangalore
-diaspora jepang
 nubia
 jingpo
 ainu
@@ -9,9 +8,9 @@ han
 bima
 palawan
 bisaya
-muslim yunani
 awá-guajá
-kayan lahwi
+kayan 
+lahwi
 nakhi
 kaukasia-amerika
 indo
@@ -38,7 +37,8 @@ eskimo
 yanomamo
 banjar
 besemah
-sachsen transilvania
+sachsen 
+transilvania
 indo-mongoloid
 rohingya
 boholano
@@ -46,13 +46,12 @@ cham
 diola
 bugis
 dogon
-sambal
 sumbawa
 surigaonon
 kazakh
 putian
 abkhaz
-rumpun apokayan
+apokayan
 bambara
 tibet
 ormur
@@ -72,7 +71,6 @@ punjab
 selknam
 kangean
 shan
-amis
 toraijin
 hiligaynon
 kashmir
@@ -92,7 +90,8 @@ hoklo taiwan
 landler transilvania
 serawai
 li
-dayak iban
+dayak 
+iban
 brunei
 dravida
 adighe
@@ -115,9 +114,10 @@ mon
 ankole
 alacaluf
 asiria
-etnis rakhine
+rakhine
 karpatia
-batak simalungun
+batak 
+simalungun
 shekak
 pekal
 derung
@@ -129,7 +129,6 @@ yi
 pesisir
 malto
 bhil
-asli
 batak
 sunda
 daur
@@ -144,7 +143,7 @@ chili
 benuaq
 persia
 kankanaey
-ras melayu
+melayu
 bikolano
 manchu
 basseri
@@ -174,18 +173,20 @@ ulu
 ati
 turkik
 apache
-khmer loeu
+khmer 
+loeu
 rejang
 chindia
 kristang
 khmu
-melayu kedah
+kedah
 rumania
 toraja
 songhai
-pennsilfaanisch deitsch
-min selatan
-khmer krom
+pennsilfaanisch 
+deitsch
+khmer 
+krom
 lanun
 albania
 soninke

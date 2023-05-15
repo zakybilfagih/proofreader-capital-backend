@@ -1,5 +1,6 @@
 punjabi
-arab palestina
+arab 
+palestina
 fula
 irlandia
 ibrani
@@ -13,7 +14,7 @@ melayu
 jerman
 lithuania
 tswana
-arab chad
+chad
 nambya
 berber
 pashtun
@@ -58,7 +59,7 @@ swazi
 assam
 bali
 nepal
-arab siprus
+siprus
 bislama
 makedonia
 chewa
@@ -71,7 +72,7 @@ jepang
 hindi
 kriolu
 ceko
-arab aljazair
+aljazair
 azerbaijan
 tagalog
 tonga
@@ -89,7 +90,8 @@ venda
 yunani
 sanna
 latvia
-jawa suriname
+jawa 
+suriname
 portugis
 punjab
 benshangul
@@ -170,8 +172,10 @@ siagha
 ambalau
 sungkai
 ampanang
-telaah babar
-lewo eleng
+telaah 
+babar
+lewo 
+eleng
 wauyai
 karau
 kamberau
@@ -185,7 +189,8 @@ tomadino
 mapia
 woi
 seko tengah
-kwerba mamberamo
+kwerba 
+mamberamo
 moa
 kisam
 murut
@@ -224,8 +229,10 @@ bilba
 lawangan
 senganan
 tuwang
-kenyah lepo tau
-onin pijin
+kenyah 
+lepo 
+onin 
+pijin
 yelmek
 memberamo
 bali
@@ -233,10 +240,14 @@ batui
 kioko
 paku
 bapu
-kayan wahau
-kaili da'a
+kayan 
+wahau
+kaili 
+da'a
 saluan
-kenyah uma kelep
+kenyah 
+uma 
+kelep
 kodeoha
 mawes
 dabra
@@ -276,20 +287,20 @@ bugis sinjai
 tii
 selaru
 meyah
-awyu edera
+awyu 
+edera
 sasak
 elnama
 sarudu
 portugis
 bada
-mandobo atas
+mandobo
 kambera
 kalumpang
 tomini
 tae
 panasuan
 hmanggona
-itik
 berik
 sunum
 banuwang
@@ -305,12 +316,12 @@ kapitiaw
 eipomek
 elseng
 benyadu
-kaili doi
+kaili 
 taurap
-kenyah lepo jalan
+kenyah 
 waina
 balaesang
-dusun deyah
+deyah
 nage
 murkim
 sko
@@ -319,8 +330,6 @@ bawo
 sumbawa
 kapori
 kompane
-uab meto
-kenyah umaq ma'ut
 mentawai
 atohwaim
 kimki
@@ -340,7 +349,7 @@ betawi
 termanu
 dakka
 lematang
-yali lembah
+yali 
 bangka
 topoiyo
 kokoda
@@ -348,7 +357,7 @@ walak
 karo
 kolok
 kepo’
-konjo pesisir
+konjo 
 ajuh
 kaisar
 balkewan
@@ -371,7 +380,6 @@ lahanan
 tangko
 mongondow
 yahadian
-seru
 yoki
 dusun witu
 ketum
@@ -382,19 +390,22 @@ sibu
 yale kosarek
 yaur
 bayono
-banjar hulu
-kenyah bakung
-daro matu
+banjar
+daro 
+matu
 pakpak
 li’o
-yali angguruk
+yali 
+angguruk
 keninjal
 kwer
 yatoke
 totoli
 devayan
 bakumpai
-kenyah umaq tukung
+kenyah 
+umaq 
+tukung
 sobei
 sian
 bonerif
@@ -409,20 +420,23 @@ buol
 moronene
 yonggom
 lewotobi
-kanum smarky
+kanum 
+smarky
 biak
 rejang
 pannei
 rajong
-kanum ngaklam
+kanum 
+ngaklam
 ngalum
 asmat
 kerinci
 bakati
 lembata
-damar timur
+damar
 ketengban
-yali ninia
+yali 
+ninia
 eritai
 tereweng
 kaure
@@ -430,8 +444,7 @@ loncong
 kamang
 waris
 penesak
-lembata barat
-dusun malang
+lembata
 kenyah lepoq ke
 kai
 kayan mahakam
@@ -449,13 +462,12 @@ zorop
 laiyolo
 mantararen
 goram
-melayu bali
 bakoi
 komyandaret
 loon
 rongga
 dondo
-dani lembah atas
+dani
 orang pulo
 nasal
 senggi
@@ -478,25 +490,25 @@ tebi
 njumit
 ende
 komering
-lain
 levuka
 lembata selatan
 moraori
 rampi
-asmat utara
+asmat
 pendau
-wae rana
+wae 
+rana
 borai
 ratahan
 taloki
 kaimbulawa
 pantar
-kayu pulau
 sentani
 enggano
 kula
 ribun
-awyu jair
+awyu 
+jair
 maiwa
 punan aput
 krui
@@ -514,14 +526,13 @@ nipsan
 saponi
 bantik
 emem
-dani lembah bawah
 sukubatong
 kantuk
 tunjung
 lolang
 tarpia
 sunda
-punan batu
+punan
 warembori
 yawa
 wakde
@@ -602,8 +613,7 @@ kohin
 kenyah kelinyau
 moraid
 peranakan
-melayu makassar
-tarangan timur
+tarangan
 budong-budong
 baras
 kotogut
@@ -619,21 +629,19 @@ oirata
 seluwasan
 kangean
 silimo
-kanum badi
+kanum 
+badi
 aralle
-duri
 ngad’a
 lundayeh
 purung
 isirawa
 kumbewaha
 nduga
-haji
 samasuru
 moma
 lara
 bahonsuai
-yey
 yarsun
 bonefa
 kimaghama
@@ -643,24 +651,24 @@ yalahatan
 balantak
 bungku
 momina
-melayu papua
 kola
 moi
 kerema
 anakalangu
 kwinsu
 simalungun
-citak tamnim
+citak 
+tamnim
 aoheng
 samarokena
 madik
-muyu utara
+muyu 
 padoe
 tabla
-as
 somahai
 lasalimu
-bahau busang
+bahau 
+busang
 koroni
 boano
 ambai
@@ -694,7 +702,6 @@ kemtuk
 iha
 riung
 murik
-komodo
 manem
 kur
 nakai
@@ -702,15 +709,14 @@ koiwai
 kereho
 tondano
 maibrat
-dani lembah tengah
 aghu
-karon pantai
+karon 
 bajo
 taje
-lampung cikoneng
+lampung 
+cikoneng
 cia-cia
 puragi
-mo
 semimi
 kaur
 yaqay
@@ -737,7 +743,6 @@ makatian
 mekwei
 musi
 meranjat
-siang
 kodi
 wejewa
 busami
@@ -747,7 +752,8 @@ nacla
 tunggare
 baropasi
 kamaru
-asmat yaosakor
+asmat 
+yaosakor
 wolio
 kayan busang
 kauwol
@@ -773,17 +779,15 @@ talondo
 abun
 banggai
 kenyah lepo tepu
-marsela barat
-tukang besi
+marsela 
 dao
 legenyem
 dabe
 awyu utara
 sause
 wandamen
-bobot
 hoti
-mandobo bawah
+mandobo 
 bobongko
 doutai
 jawa
@@ -799,7 +803,7 @@ aikwakai
 imlom
 milikin
 kalabra
-dusun halong
+halong
 papuma
 sara
 mandar
@@ -821,19 +825,19 @@ sowari
 simeulue
 kemak
 airoran
-awyu tengah
+awyu 
 viid
 kaham
 rambang
 lola
 mpur
 ambelan
-marsela timur
+marsela 
 purai
 nggem
 lengilo
-konjo pegunungan
-mori bawah
+konjo 
+mori 
 osing
 airo
 wabo
@@ -841,19 +845,18 @@ meoswar
 tanjong
 selako
 kaiely
-kayan mendalam
+kayan 
 podena
 lamaholot
 lole
 punan merah
-marsela tengah
-dani barat
+marsela 
+dani 
 ormu
 ogan
 kawe
 saweru
 yetfa
-bukar sadong
 taori so
 tombulu
 wawonii
@@ -873,9 +876,11 @@ wotu
 kwesten
 kenyah umaq lung
 dubu
-kanum sota
+kanum 
+sota
 wolai
-asmat kasuari
+asmat 
+kasuari
 bima
 bintauna
 uruangnirin
@@ -883,7 +888,7 @@ tarangan barat
 lintang
 asilulu
 kaburi
-asmat tengah
+asmat 
 kosare
 sikaritai
 solor
@@ -902,7 +907,9 @@ dusun
 dawelor
 arguni
 seram
-kenyah umaq lasan
+kenyah 
+umaq 
+lasan
 burate
 kirikiri
 pamona
@@ -917,7 +924,6 @@ kwerisa
 tonsea
 kofei
 melayu manado
-sabu
 kubu
 iban
 toba
@@ -927,7 +933,6 @@ rembong
 kabola
 kedang
 kanayatn
-anus
 narau
 mairasi
 pattinjo
@@ -960,7 +965,6 @@ kawi
 sasak
 bonda
 alifuru
-lota ende
 jawöe
 kaganga
 samawa
@@ -978,8 +982,6 @@ jangang-jangang
 bilang-bilang
 honji
 karo
-sunda kuno
 kana
 ulu
-jawa kuno
 majapahit
