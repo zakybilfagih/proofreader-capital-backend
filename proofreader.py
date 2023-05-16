@@ -31,6 +31,9 @@ def proofreader_v3(input):
     
     # index
     start_idx = 0
+
+    # petikan
+    petikan = 0
     
 
     for i in range(len(kalimat)):
@@ -49,12 +52,14 @@ def proofreader_v3(input):
             # Capitalize awal kalimat pada petikan langsung
             symbols = ['"', '``', '\'\'']
             if any(symbol in kalimat[i-1] for symbol in symbols):
-                #   kalimat[i] = kalimat[i].title()
-                if not kalimat[i].istitle():
-                    replacement = kalimat[i].title()
-                    deleteCount = len(kalimat[i])
-                    lst_correction.append(correction_formatter(offset, deleteCount, replacement))
-                    continue
+                petikan += 1
+                if petikan % 2 == 1:
+                    #   kalimat[i] = kalimat[i].title()
+                    if not kalimat[i].istitle():
+                        replacement = kalimat[i].title()
+                        deleteCount = len(kalimat[i])
+                        lst_correction.append(correction_formatter(offset, deleteCount, replacement))
+                        continue
 
             # Capitalize person, place, organization
             if nergrit[i] != 'O' and not kalimat[i].isupper():
