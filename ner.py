@@ -1,5 +1,6 @@
 import nltk
 nltk.download('punkt') 
+import os
 import random
 import numpy as np
 import pandas as pd
@@ -29,10 +30,10 @@ def word_subword_tokenize(sentence, tokenizer):
     return subwords, subword_to_word_indices
 
 # load the NER model
-mypath = 'D:\Semester 8\Tugas Akhir\Capital Letter Backend\model\\'
+mypath = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model/')
 
-ner_model = torch.load(mypath + 'ner_model.pt', map_location=torch.device('cpu'))
-ner_model2 = torch.load(mypath + 'ner_model2.pt', map_location=torch.device('cpu'))
+ner_model = torch.load(os.path.join(mypath, 'ner_model.pt'), map_location=torch.device('cpu'))
+ner_model2 = torch.load(os.path.join(mypath, 'ner_model2.pt'), map_location=torch.device('cpu'))
 tokenizer = BertTokenizer.from_pretrained('indobenchmark/indobert-base-p1')
 
 # Labels
